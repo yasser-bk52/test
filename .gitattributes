@@ -1,1 +1,2 @@
 demistohost-6.12-857430.sh filter=lfs diff=lfs merge=lfs -text
+d1-test-6.12-857430 filter=lfs diff=lfs merge=lfs -text
